@@ -59,3 +59,29 @@ Pada program ini, Penerapan inheritance diimplementasikan pada entitas katalog p
     Pada class ini hanya perlu menambahkan atribut spesifik nya sendiri. Pada sub-class subscribtion ini menambahkan atribut <b>durasiHari</b> sebagai acuan dari sistem langganan yang bersifat bulanan/mingguan.
 
 ## Dokumentasi Program  
+1. <b>Menu Awal & Registrasi Akun</b>  
+<img width="567" height="669" alt="Regist   Login akun" src="https://github.com/user-attachments/assets/eebd0625-ca8e-4863-87dc-016629915b58" />
+
+Ketika program baru dijalankan, terminal akan menampilkan Output menu utama yg berisi Judul(header), dan pilihan beberapa menu seperti Login, Registrasi, dan Keluar.  
+Pada dokumentasi disini, dilakukan demo pembuatan dan login pada akun dengan nama <b>YangYang12</b> sebagai contohnya. Input untuk melakukan pilihan yang ada dalam program adalah menggunakan nomor menu yang tersedia (misal ketik "2" untuk melakukan registrasi).  
+Setelah mengetik "2" untuk melakukan registrasi, selanjutnya adalah mengisi Username dan Password seperti contoh dokumentasi di atas, kemudian melakukan login dengan memilih menu "1".  
+
+3. <b>Pilihan Menu 1. Cek Akun</b>  
+<img width="458" height="255" alt="Menu 1 Cek akun" src="https://github.com/user-attachments/assets/049a8bc8-945c-485f-95ab-564314ca9e3a" />
+
+Setelah berhasil login pada aplikasi TopUp Lunite ini, terdapat beberapa menu utama yang dapat digunakan, salah satunya Menu 1. Cek Akun.  
+Menu ini berfungsi untuk menampilkan informasi akun seperti Username, status member, dan total akumulasi jumlah topup yang pernah dilakukan.  
+
+5. <b>Pilihan Menu 2. Top Up Lunite & Paket</b>  
+<img width="654" height="559" alt="Menu 2 tes topup" src="https://github.com/user-attachments/assets/ff1eec14-b6ee-4b92-b332-82b790ac79ad" />
+
+Selanjutnya adalh pilihan Menu ke-2 yaitu Top Up & Paket. Menu ini berisi katalog dan pilihan jenis top up yang dapat dilakukan pengguna. Misal pada dokumentasi demo program pada gambar di atas, program melakukan top up pada pilihan jenis top up nomor 2 yaitu 300 Lunites dengan mengetik pilihan menu "2", maka program akan memproses input tersebut, dan jika berhasil, maka program akan menampilkan invoice hasil transaksi sebagai bukti transaksi berhasil dilakukan.  
+
+7. <b>Pilihan Menu 3. Riwayat Pembelian</b>  
+<img width="509" height="420" alt="Menu 3 Cek Invoice" src="https://github.com/user-attachments/assets/6f75815c-b43d-427b-a455-57a640cd397d" />
+
+Pilihan menu 3 berfungsi untuk menampilkan keseluruhan riwayat transaksi yang pernah dilakukan oleh user pada akun terkait. Menu ini menampilkan invoice yang isinya berupa ID transaksi, nama akun pembeli, jenis produk, total harga yang dibayar, dan status pembelian (berhasil/gagal).  
+
+9. <b>Pilihan Menu 4. Log out & Keluar aplikasi</b>
+<img width="1290" height="344" alt="Menu 4 Log out   Keluar app" src="https://github.com/user-attachments/assets/95c31112-e3ca-4ebc-b481-27cc274b7a8a" />  
+Pilihan Menu ini berfungsi untuk melakukan Log-out atau keluar dari akun pengguna. Sejalur dengan menu log-out, terdapat Menu 3 (Keluar) pada tampilan menu awal setelah pengguna log out yang berfungsi untuk menutup program aplikasi.
